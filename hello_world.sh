@@ -2,4 +2,4 @@
 
 echo "hello world"
 
-echo "main"
+echo "main finish"
