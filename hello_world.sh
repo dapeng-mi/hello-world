@@ -7,3 +7,5 @@ echo "main finish"
 echo ""
 
 a new line
+
+a second line
