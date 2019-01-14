@@ -10,4 +10,4 @@ a new line
 
 a second line
 
-create a new dev branch feature1
+create a new dev branch feature1 besides master
