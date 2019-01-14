@@ -10,6 +10,6 @@ a new line
 
 a second line
 
-create a new dev branch feature1
+create a new dev branch feature1 besides master
 
 we need to merge feature1 to master
